@@ -33,6 +33,10 @@ while 1:
     
     
 - De plus, on peut communiquer entre 2 machines distantes, en remplaçant le serverName par l'adresse IP de la machine en question    
+
+
+
+
     
     
 
